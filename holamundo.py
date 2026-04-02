@@ -1,1 +1,2 @@
-print ("Hola Mundo")
+str = "Hola Mundo"
+print (str)
